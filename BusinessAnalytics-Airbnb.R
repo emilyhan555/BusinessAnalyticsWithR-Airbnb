@@ -1,21 +1,3 @@
-#Installing the packages
-install.packages("dummies")
-install.packages("caret")
-install.packages("e1071")
-install.packages("fpp2")
-install.packages("lattice")
-install.packages("gains")
-install.packages("pROC")
-install.packages("MASS")
-install.packages("tidyverse")
-install.packages("dplyr")
-install.packages("gridExtra")
-install.packages("corrplot")
-install.packages("arules")
-install.packages("recommenderlab")
-install.packages("rpart")
-install.packages("rpart.plot")
-
 #importing the packages
 library(dummies)
 library(fpp2)
